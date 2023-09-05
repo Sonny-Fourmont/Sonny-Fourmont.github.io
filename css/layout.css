@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -125,7 +125,6 @@ header .scrolldown a:hover { color: #50aceb; }
 .fr, .en {
    width: 30px;
    height: 30px;
-   margin: 3px;
    margin-bottom: -10px;
    margin-top: 10px;
 }
