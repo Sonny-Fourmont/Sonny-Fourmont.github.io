@@ -12,7 +12,7 @@ c. Default Styles
    1. Basic
    2. Typography
    3. Links
-   4. Images
+   4. assets
    5. Buttons
    6. Forms
 d. Grid
@@ -446,7 +446,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .prev, .pagination .next {}
 
-/*  5. Images  --------------------------------------------------------- */
+/*  5. assets  --------------------------------------------------------- */
 
 img {
    max-width: 100%;
